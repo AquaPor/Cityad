@@ -57,11 +57,6 @@
     justify-content: center;
     background-color: #ffb9b9;
 }
-.logo h1{
-    color: black;
-  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-  -webkit-text-stroke: 3px black;
-}
 
 .menu div {
     font-size: 24px;
